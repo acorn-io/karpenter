@@ -2,6 +2,8 @@ module github.com/aws/karpenter
 
 go 1.21
 
+replace github.com/aws/karpenter-core => github.com/acorn-io/karpenter-core v0.0.0-20230905222632-b5a987d509a8
+
 require (
 	github.com/Pallinder/go-randomdata v1.2.0
 	github.com/PuerkitoBio/goquery v1.8.1
