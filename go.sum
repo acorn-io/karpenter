@@ -41,8 +41,8 @@ github.com/Pallinder/go-randomdata v1.2.0 h1:DZ41wBchNRb/0GfsePLiSwb0PHZmT67XY00
 github.com/Pallinder/go-randomdata v1.2.0/go.mod h1:yHmJgulpD2Nfrm0cR9tI/+oAgRqCQQixsA8HyRZfV9Y=
 github.com/PuerkitoBio/goquery v1.8.1 h1:uQxhNlArOIdbrH1tr0UXwdVFgDcZDrZVdcpygAcwmWM=
 github.com/PuerkitoBio/goquery v1.8.1/go.mod h1:Q8ICL1kNUJ2sXGoAhPGUdYDJvgQgHzJsnnd3H7Ho5jQ=
-github.com/acorn-io/karpenter-core v0.0.0-20230905222632-b5a987d509a8 h1:40eKFTX1/C7RkWL7V6Lw2019CXNsZdTfGziuQvprWYA=
-github.com/acorn-io/karpenter-core v0.0.0-20230905222632-b5a987d509a8/go.mod h1:AQl8m8OtgO2N8IlZlzAU6MTrJTJSbe6K4GwdRUNSJVc=
+github.com/acorn-io/karpenter-core v0.0.0-20230916000435-a1a4bfca7499 h1:YWZaFtu9mRQnvQcnPgSQloTj9/p6nHGebxa86fGq2sI=
+github.com/acorn-io/karpenter-core v0.0.0-20230916000435-a1a4bfca7499/go.mod h1:AQl8m8OtgO2N8IlZlzAU6MTrJTJSbe6K4GwdRUNSJVc=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
